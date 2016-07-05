@@ -106,7 +106,7 @@ Language types are output:
         .jade
   
     --java
-        .java  .properties
+        .java  .properties  .tld
   
     --js
         .js  .jsx  .vue
